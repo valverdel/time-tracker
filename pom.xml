@@ -50,7 +50,6 @@
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-pmd-plugin</artifactId>
                     <version>${pmd.version}</version>
-                    <targetJdk>${java.version}</targetJdk>
                     <configuration>
                       <targetJdk>${java.version}</targetJdk>
                     </configuration>
