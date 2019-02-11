@@ -43,6 +43,6 @@ public class TimeEntry {
               + "description='" + description + '\''
               + ", rate=" + rate
               + ", time=" + time
-                '}';
+              + '}';
     }
 }
